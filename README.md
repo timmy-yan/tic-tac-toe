@@ -1,2 +1,2 @@
 # tic-tac-toe
-A simple tic tac toe game...
+Made a simple and straightforward tic-tac-toe game for everyone to try. 
